@@ -1,0 +1,13 @@
+/**
+*/
+function Virus()
+{
+
+}
+
+/**
+*/
+function VirusRender()
+{
+
+}
